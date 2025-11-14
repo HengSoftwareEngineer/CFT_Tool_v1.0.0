@@ -1,4 +1,4 @@
-# CFT Tool v1.0.0 - Technical Information
+## CFT Tool v1.0.0 - Technical Information
 
 ## About
 CFT Tool (Cloudflare Tunnel Tool) is a GUI application that simplifies creating 
@@ -16,5 +16,5 @@ Cloudflare tunnels for local development projects.
 - All files stay in this folder for easy management
 
 ## Version: 1.0.0
-## Author: Enhanced by M.Bunheng
+## Author: Enhanced by MAI BUNHENG [![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://your-website.com)
 ## Build Date: November 2025
