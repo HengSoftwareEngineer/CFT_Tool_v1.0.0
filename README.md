@@ -26,6 +26,11 @@ CFT_Tool_v1.0.0/
 - The tool automatically detects common development ports (3000, 8080, etc.)
 - Use the refresh button (🔍) to re-scan for running servers
 
+## Purposes
+`Note:` This tool is for development and demonstration purposes only.
+It provides a convenient way to generate a `public link` so developers can share their project with clients or team members during demos or testing phases.
+
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
