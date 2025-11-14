@@ -26,4 +26,10 @@ CFT_Tool_v1.0.0/
 - The tool automatically detects common development ports (3000, 8080, etc.)
 - Use the refresh button (🔍) to re-scan for running servers
 
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
+
 Enjoy using CFT Tool! 🚀
