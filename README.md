@@ -1,4 +1,4 @@
-## CFT Tool v1.0.0 - Cloudflare Tunnel Tool
+## CFT Tool v1.0.0
 
 ## Quick Start
 1. Double-click `CFT_Tool_v1.0.0.exe` to run the application
